@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align = "center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fco.pinterest.com%2Fpin%2F639229740834395457%2F&psig=AOvVaw0J2DDSDqlvf7LgnY-kAxyz&ust=1664722343924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDBgpOkv_oCFQAAAAAdAAAAABBK" width="300"/>
+    <img src="https://i.pinimg.com/originals/be/26/d8/be26d8225bf4dc11587128b3943b1850.gif" width="300"/>
 </div>
 <div id="header" align = "center">
    <a href ="https://www.twitch.tv/genos3222">
