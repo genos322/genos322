@@ -10,7 +10,7 @@
     <a href ="https://twitter.com/TomasAn66093561">
         <img src="https://img.shields.io/twitter/url?color=blue&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FTomasAn66093561" alt ="twt"/>
     </a> 
-    <a href = "https://www.youtube.com/channel/UCmqzHHIcwI6omSLaJqLcgRA/featured"
+    <a href = "https://www.youtube.com/channel/UCmqzHHIcwI6omSLaJqLcgRA/featured">
         <img src =  "https://img.shields.io/youtube/channel/views/UCmqzHHIcwI6omSLaJqLcgRA?logo=youtube&style=for-the-badge" alt="iutu" />
     </a>
 </div>
