@@ -15,7 +15,7 @@
     </a>
 </div>
 <div align ="Center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genos322 &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genos322&theme=radical)
 </div
 
 
