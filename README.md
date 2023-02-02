@@ -1,5 +1,6 @@
+<div align="center">
 ### Wenas, wenas!! 🦎🦎🦎
-
+</div>
 <div id="header" align = "center">
     <img src="https://i.pinimg.com/originals/be/26/d8/be26d8225bf4dc11587128b3943b1850.gif" width="300"/>
 </div>
@@ -14,9 +15,7 @@
         <img src =  "https://img.shields.io/youtube/channel/views/UCmqzHHIcwI6omSLaJqLcgRA?logo=youtube&style=for-the-badge" alt="iutu" />
     </a>
 </div>
-<div align ="Center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genos322&theme=radical)
-</div
+
 
 
   
