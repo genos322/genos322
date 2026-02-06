@@ -1,5 +1,5 @@
 <div align="center">
-### Wenas, wenas!! 🦎🦎🦎
+### 🦎🦎🦎
     <br><br>
 </div>
 <div id="header" align = "center">
